@@ -1,7 +1,7 @@
-### Hi there it's me !cecodder 👋
+## It's a ice, no it's juste icecodder!
 
-- 🔭 I’m currently working on Younzy, Developers House
-- 🌱 I’m currently learning Docker & Kubernetes
-- 💬 Ask me about nothing lol
+ Hey, welcome to my GitHub profile, here you can see some of my projects.
+
+- 🔭 I’m currently working on Younzy, Developers House, CMFr
+- 🌱 I’m currently learning Kubernetes, Go and others cool things
 - 📫 How to reach me: don't contact me
-- ⚡ Fun fact: Idk why I write this, it's just funny
